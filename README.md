@@ -1,6 +1,8 @@
 supercolor-pingpong
 ===================
 
+![Screenshot](https://dl.dropbox.com/u/15525442/pong.jpg)
+
 Jackie Chan's SUPER COLOR Ping Pong! is an action packed family friendly
 ping pong simulator written in VHDL. To play it you need a PS2 keyboard,
 VGA monitor and an FPGA board. I expect the game to become a worldwide hit
